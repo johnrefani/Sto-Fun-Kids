@@ -1,4 +1,4 @@
-#Sto-Fun Kids - Gamification Project
+##Sto-Fun Kids - Gamification Project
 
 This project is a gamified adaptation of the children's book **"Loro Gets Stuck and Town of Makinang."** The goal was to create an engaging and interactive experience that brings the story to life through the application.
 
