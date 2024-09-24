@@ -1,7 +1,7 @@
-# <h1> Sto-Fun Kids</h1>
-<p>
+# Sto-Fun Kids
+
 This project is a gamified adaptation of the children's book **"Loro Gets Stuck and Town of Makinang."** The goal was to create an engaging and interactive experience that brings the story to life through the application.
-</p>
+
 ## Project Overview
 
 "Loro Gets Stuck and Town of Makinang" is a delightful children's book that tells the story of Loro, a curious parrot, and the vibrant town of Makinang. This gamification project aims to enhance the storytelling experience by incorporating interactive elements and educational mini-games.
