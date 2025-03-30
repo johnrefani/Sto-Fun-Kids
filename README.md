@@ -9,7 +9,7 @@ This project is a gamified adaptation of the children's book <b> "Loro Gets Stuc
 "Loro Gets Stuck and Town of Makinang" is a delightful children's book that tells the story of Loro, a curious parrot, and the vibrant town of Makinang. This gamification project aims to enhance the storytelling experience by incorporating interactive elements and educational mini-games.
 
 ## Download Links
-Download the [latest apk](https://github.com/johnrefani/Elementalix/releases/download/v0.1/Elementalix.apk) for mobile devices. And download [this](https://github.com/johnrefani/Sto-Fun-Kids/releases/download/Pc/Sto.Fun.Kids.PC.rar) for your computer.
+Download the [latest apk](https://github.com/johnrefani/Elementalix/releases/download/v0.1/Elementalix.apk) for mobile devices. Or download [this](https://github.com/johnrefani/Sto-Fun-Kids/releases/download/Pc/Sto.Fun.Kids.PC.rar) for your computer.
 
 ## Features
 
