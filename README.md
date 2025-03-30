@@ -16,33 +16,33 @@ This project is a gamified adaptation of the children's book **"Loro Gets Stuck 
 
 ## Screenshots
 
-**Home Screen**
+**1. Home Screen**
 <br> <br>
 <img src = "https://github.com/johnrefani/Sto-Fun-Kids/blob/main/Home.png" width=50% height=30% />
 <br> <br>
 This image represents the main landing page of the application. It serves as the entry point for users.
 
-**Character Creation**
+**2. Character Creation**
 <br> <br>
 <img src = "https://github.com/johnrefani/Sto-Fun-Kids/blob/main/Character.png" width=50% height=30% />
 <br> <br>
 Displays character selection or customization options. Possibly used in a game or interactive environment.
 
-**Learning Library**
+**3. Learning Library**
 <br> <br>
 <img src = "https://github.com/johnrefani/Sto-Fun-Kids/blob/main/Learn.png" width=50% height=30% />
 <br> <br>
 Provides educational or instructional content. May contain guides, tutorials, or lessons.
 
-**Chapters**
+**4. Chapters**
 <br> <br>
 <img src = "https://github.com/johnrefani/Sto-Fun-Kids/blob/main/Chapters.png" width=50% height=30% />
 <br> <br>
 Shows available chapters or levels in the application. Allows users to navigate through content.
 
-**Scores**
+**5. Scores**
 <br> <br>
-<img src = "https://github.com/johnrefani/Sto-Fun-Kids/blob/main/Score.png" width=50% height=30% />
+<img src = "https://github.com/johnrefani/Sto-Fun-Kids/blob/main/Scores.png" width=50% height=30% />
 <br> <br>
 Displays user scores and progress. Likely used in a leaderboard or results section.
 
