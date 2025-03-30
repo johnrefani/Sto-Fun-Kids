@@ -2,7 +2,7 @@
 <p align="center">
 <img src = "https://github.com/johnrefani/Sto-Fun-Kids/blob/main/Splash.png" width=50% height=30% />
 </p>
-This project is a gamified adaptation of the children's book **"Loro Gets Stuck and Town of Makinang."** The goal was to create an engaging and interactive experience that brings the story to life through the application.
+This project is a gamified adaptation of the children's book <b> "Loro Gets Stuck and Town of Makinang" </b>. The goal was to create an engaging and interactive experience that brings the story to life through the application.
 
 ## Project Overview
 
