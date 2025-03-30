@@ -36,14 +36,14 @@ Provides educational or instructional content. May contain guides, tutorials, or
 
 **Chapters**
 <br> <br>
-<img src = "https://github.com/johnrefani/Sto-Fun-Kids/blob/main/Chapter.png" width=50% height=30% />
+<img src = "https://github.com/johnrefani/Sto-Fun-Kids/blob/main/Chapters.png" width=50% height=30% />
 <br> <br>
 Shows available chapters or levels in the application. Allows users to navigate through content.
 
-**Chapters**
+**Scores**
 <br> <br>
-<img src = "https://github.com/johnrefani/Sto-Fun-Kids/blob/main/Chapter.png" width=50% height=30% />
+<img src = "https://github.com/johnrefani/Sto-Fun-Kids/blob/main/Score.png" width=50% height=30% />
 <br> <br>
-Shows available chapters or levels in the application. Allows users to navigate through content.
+Displays user scores and progress. Likely used in a leaderboard or results section.
 
 
