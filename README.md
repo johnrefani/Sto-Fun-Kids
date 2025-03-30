@@ -1,5 +1,7 @@
 # Sto-Fun Kids
+<p align="center">
 <img src = "https://github.com/johnrefani/Sto-Fun-Kids/blob/main/Splash.png" width=50% height=30% />
+</p>
 This project is a gamified adaptation of the children's book **"Loro Gets Stuck and Town of Makinang."** The goal was to create an engaging and interactive experience that brings the story to life through the application.
 
 ## Project Overview
@@ -15,23 +17,33 @@ This project is a gamified adaptation of the children's book **"Loro Gets Stuck 
 ## Screenshots
 
 **Home Screen**
+<br> <br>
 <img src = "https://github.com/johnrefani/Sto-Fun-Kids/blob/main/Home.png" width=50% height=30% />
+<br> <br>
 This image represents the main landing page of the application. It serves as the entry point for users.
 
 **Character Creation**
+<br> <br>
 <img src = "https://github.com/johnrefani/Sto-Fun-Kids/blob/main/Character.png" width=50% height=30% />
+<br> <br>
 Displays character selection or customization options. Possibly used in a game or interactive environment.
 
 **Learning Library**
+<br> <br>
 <img src = "https://github.com/johnrefani/Sto-Fun-Kids/blob/main/Learn.png" width=50% height=30% />
+<br> <br>
 Provides educational or instructional content. May contain guides, tutorials, or lessons.
 
 **Chapters**
+<br> <br>
 <img src = "https://github.com/johnrefani/Sto-Fun-Kids/blob/main/Chapter.png" width=50% height=30% />
+<br> <br>
 Shows available chapters or levels in the application. Allows users to navigate through content.
 
 **Chapters**
+<br> <br>
 <img src = "https://github.com/johnrefani/Sto-Fun-Kids/blob/main/Chapter.png" width=50% height=30% />
+<br> <br>
 Shows available chapters or levels in the application. Allows users to navigate through content.
 
 
